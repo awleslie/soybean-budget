@@ -1,2 +1,2 @@
 # soybean-budget
-web app for calculating soybean crop budgets
+With grant funding from the Maryland Soybean Board, we have been working to develop a new web-based app for calculating crop budgets for growing soybeans. The goal for this new tool is to allow farmers more freedom to customize inputs to better reflect their farming practices with a simple user interface. The web app allows you to download a summary of all inputs and expected profits as a PDF document for your records. It includes two tables of input costs that should be updated annually.
